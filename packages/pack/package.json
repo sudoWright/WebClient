@@ -13,7 +13,7 @@
         "pretty": "prettier --write  cli bin"
     },
     "dependencies": {
-        "@babel/core": "^7.26.0",
+        "@babel/core": "^7.29.6",
         "@babel/plugin-transform-class-properties": "^7.25.9",
         "@babel/plugin-transform-runtime": "^7.25.9",
         "@babel/preset-env": "^7.26.0",
